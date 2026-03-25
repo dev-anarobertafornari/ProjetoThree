@@ -1,0 +1,15 @@
+1- Baixar o arquivo do projeto;
+2- Baixar o node.js no site https://nodejs.org/ptS;
+3- Baixar o Visual Studio Code (VS Code) caso não tiver;
+4- Entrar no Visual Studio Code;
+5- Entrar no terminal do VS Code;
+6- Digitar "npm install" (sem aspas), isso deve instalar as dependencias necessárias, caso não faça, digitar "npm install three" e "npm install vite"  (ambos sem aspas);
+se o "npm" não for reconhecido, usar: "Set-ExecutionPolicy -Scope CurrentUser RemoteSigned" (sem aspas), teste "npm -v" (sem aspas), se aparecer a versão quer dizer que está funcionando;
+7- Digitar "npx vite" (sem aspas), isso deve mostrar o endereço web onde a aplicação está rodando, caso não funcione, também pode utilizar o comando "npm run dev" ou "npm start"; 
+8- Rodar o projeto.
+
+Ao rodar o projeto é possível observar no canto superior direito da tela o modo em que se encontra a movimentação da camera do ambiente, ao clicar, ela muda a forma de movimento.
+
+No orbit controls usa se o mouse para movimentar a tela, o botão esquerdo do mouse serve para girar a camera, o botão direito do mouse serve para andar na tela e o botão do meio serve para aproximar ou afastar a câmera.
+
+Já pelo modo WASD + EQ o movimento do mouse gira a câmera, o botão Q movimenta para baixo e E para cima, o W para frente, o S para trás, o A para a esquerda e o D para a direita da câmera,

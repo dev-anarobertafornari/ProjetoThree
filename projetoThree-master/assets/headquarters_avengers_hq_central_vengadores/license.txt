@@ -1,0 +1,11 @@
+Model Information:
+* title:	Headquarters Avengers, HQ, Central Vengadores
+* source:	https://sketchfab.com/3d-models/headquarters-avengers-hq-central-vengadores-b3e3842e5ecd4d8b91b1e0d5c38906ac
+* author:	martinb (https://sketchfab.com/martinbassoli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Headquarters Avengers, HQ, Central Vengadores" (https://sketchfab.com/3d-models/headquarters-avengers-hq-central-vengadores-b3e3842e5ecd4d8b91b1e0d5c38906ac) by martinb (https://sketchfab.com/martinbassoli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
